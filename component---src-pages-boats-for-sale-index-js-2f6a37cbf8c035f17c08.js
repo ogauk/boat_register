@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{LUP4:function(n,t,e){"use strict";e.r(t),e.d(t,"default",(function(){return u}));var o=e("q1tI"),r=e.n(o);function u(){return r.a.createElement("div",{style:{color:"purple",fontSize:"72px"}},"Boats for Sale Root")}}}]);
+//# sourceMappingURL=component---src-pages-boats-for-sale-index-js-2f6a37cbf8c035f17c08.js.map
