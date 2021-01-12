@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[9],{N2Qx:function(e,t,n){"use strict";n.r(t),n.d(t,"default",(function(){return i}));var o=n("q1tI"),r=n.n(o);function i(){return r.a.createElement("div",{style:{color:"purple",fontSize:"72px"}},"Browse the Register Root")}}}]);
-//# sourceMappingURL=component---src-pages-browse-the-register-index-js-5811d8420151d715de06.js.map
